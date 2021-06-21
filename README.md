@@ -18,6 +18,9 @@
 * Action Group 5: Strong Back Retract
 * Action Group 6: Toggle Soot 
 
+# Name Tags
+* Stage 1 Engine : S1 eng
+
 # How to Launch ?
 * Press 5 to launch
 
