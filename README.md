@@ -6,6 +6,7 @@
 * Tundra Exploration :https://forum.kerbalspaceprogram.com/index.php?/topic/166915-111x-tundra-exploration-v500-june-9th-restockalike-spacex-falcon-9-crew-dragon-xl-and-starship/
 * Tundra Far Patch :https://github.com/TheKerbalGamer/TundraFarPatch
 * Tundra engine CFG:https://github.com/TheKerbalGamer/Tundra-Engine-CFG
+* 3X Kebin
 
 # Steps
 * Step 1: Put the BoostBack.ks and land.ks and launch.ks and My_lib.ks and lib_lazcalc.ks in (Ksp/Ships/Script) folder.
