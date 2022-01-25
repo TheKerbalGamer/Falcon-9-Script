@@ -29,5 +29,5 @@ Trajectories : https://forum.kerbalspaceprogram.com/index.php?/topic/162324-18-1
 * Press 5 to launch
 
 # How to land ?
-* Landing should start automatically after stage seperation , if the launch script is activated
-* If the booster does nothing  press 8 to land.
+* Landing should start automatically after stage seperation , if the launch script is activated.
+* If the booster does nothing  press 8 to starst the boostback and landing script.
