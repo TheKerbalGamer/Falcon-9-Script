@@ -5,7 +5,7 @@ Trajectories : https://forum.kerbalspaceprogram.com/index.php?/topic/162324-18-1
 # Mods I used while testing this script
 
 * Far : https://forum.kerbalspaceprogram.com/index.php?/topic/179445-18-111-ferram-aerospace-research-continued-v01602-mader-090521/
-* * Tundra Exploration :https://forum.kerbalspaceprogram.com/index.php?/topic/166915-111x-tundra-exploration-v500-june-9th-restockalike-spacex-falcon-9-crew-dragon-xl-and-starship/
+* Tundra Exploration :https://forum.kerbalspaceprogram.com/index.php?/topic/166915-111x-tundra-exploration-v500-june-9th-restockalike-spacex-falcon-9-crew-dragon-xl-and-starship/
 * Tundra Far Patch :https://github.com/TheKerbalGamer/TundraFarPatch
 * Tundra engine CFG:https://github.com/TheKerbalGamer/Tundra-Engine-CFG
 * Tundra Rcs CFG: https://github.com/TheKerbalGamer/Tundra-RCS-CFG
